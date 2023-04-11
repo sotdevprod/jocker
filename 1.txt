@@ -3,7 +3,3 @@ Welcome to Hell
 
 
 
-What is CNN?
-Convolutional Neural Networks (CNN, or ConvNet) are a type of multi-layer neural network that is meant to discern visual patterns from pixel images. In CNN, ‘convolution’ is referred to as the mathematical function. It’s a type of linear operation in which you can multiply two functions to create a third function that expresses how one function’s shape can be changed by the other. In simple terms, two images that are represented in the form of two matrices, are multiplied to provide an output that is used to extract information from the image. CNN is similar to other neural networks, but because they use a sequence of convolutional layers, they add a layer of complexity to the equation. CNN cannot function without convolutional layers.
-
-The ConvNet’s job is to compress the images into a format that is easier to process while preserving elements that are important for obtaining a decent prediction. This is critical for designing an architecture that is capable of learning features while also being scalable to large datasets.
