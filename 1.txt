@@ -1,10 +1,5 @@
 Hello World 
 Updated 1 by Chat Branch
 Welcome to Hell
-
-<<<<<<< HEAD
-Hooks
-=======
 New Version Added
 New Version Added2
->>>>>>> chat
